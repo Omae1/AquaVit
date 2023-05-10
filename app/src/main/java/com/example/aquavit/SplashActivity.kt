@@ -1,5 +1,4 @@
 package com.example.aquavit
-//create logo and connect with main activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
